@@ -5,12 +5,12 @@
 }
 
 :root {
-    --clr: #222327;
+    --cir: #222327;
 }
 
 body {
     align-items: center;
-    background: var(--clr);
+    background: #222327;
     display: flex;
     justify-content: center;
     min-height: 100vh;

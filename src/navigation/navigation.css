@@ -34,7 +34,7 @@ nav ul li a {
 }
 
 nav ul li a .icon {
-    color: #000;
+    color: #222327;
     display: block;
     font-size: 1.5em;
     line-height: 75px;
@@ -48,7 +48,7 @@ nav ul li.active a .icon {
 }
 
 nav ul li a .text {
-    color: #000;
+    color: #222327;
     font-size: 0.75em;
     font-weight: 400;
     letter-spacing: 0.05em;
@@ -64,7 +64,7 @@ nav ul li.active a .text {
 }
 
 .indicator {
-    border: 6px solid var(--clr);
+    border: 6px solid #222327;
     border-radius: 50%;
     height: 70px;
     position: absolute;
@@ -76,7 +76,7 @@ nav ul li.active a .text {
 .indicator::before {
     background: transparent;
     border-top-right-radius: 20px;
-    box-shadow: 1px -10px 0 0 var(--clr);
+    box-shadow: 1px -10px 0 0 #222327;
     content: '';
     height: 20px;
     left: -22px;
@@ -88,7 +88,7 @@ nav ul li.active a .text {
 .indicator::after {
     background: transparent;
     border-top-left-radius: 20px;
-    box-shadow: -1px -10px 0 0 var(--clr);
+    box-shadow: -1px -10px 0 0 #222327;
     content: '';
     height: 20px;
     right: -22px;
