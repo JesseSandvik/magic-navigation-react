@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --clr: #222327;
+}
+
+body {
+    align-items: center;
+    background: var(--clr);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
