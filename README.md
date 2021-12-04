@@ -10,7 +10,7 @@ Fork & clone the repository. |
 ---------------------------- |
 cd magic-navigation-react    |
 npm install                  |
-npm start(client)            |
+npm start                    |
 
 ## Build Notes
 Again, full credit to [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog), I just provided this
